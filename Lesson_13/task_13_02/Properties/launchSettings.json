@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "task_!2_02": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
